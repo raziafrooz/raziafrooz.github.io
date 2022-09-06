@@ -1,0 +1,17 @@
+name: "Project0"
+title: "Afrooz Razi"
+description: |
+  Welcome to Afrooz Razi's website
+output_dir: "_site"
+include: "Afrooz.Rmd"
+navbar:
+  right:
+    - text: "Background"
+      href: resume.Rmd
+    - text: "Fun Facts"
+      menu:
+        - text: "MAXI the goldendoodle"
+          href: about.html
+        - text: "Hometown"
+          href: "https://www.hitehranhostel.com/visit-tehran/"
+output: distill::distill_article

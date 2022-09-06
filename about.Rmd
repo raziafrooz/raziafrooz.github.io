@@ -1,0 +1,16 @@
+---
+title: "Max The Godlendoodle"
+description: |
+  Some additional details about the website
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Max is an adorable Goldendoodle! yesss he is a very good booooy :)
+![Source:imturning60help.blogspot.com](maxi.jpg)
+
+Max loves attention!
+![Source:imturning60help.blogspot.com](maxi4.HEIC)

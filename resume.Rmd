@@ -1,0 +1,25 @@
+---
+title: "Afrooz Razi"
+image: "afr.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/afroozrazi/"
+  - label: Twitter
+    url: "https://twitter.com/raziafro0z"
+  - label: GitHub
+    url: "https://github.com/raziafrooz"
+  - label: Email
+    url: "raziafro0z@gmail.com"
+output:
+    postcards::trestles
+    
+---
+ 
+## Bio
+
+Afrooz Razi was borned in Tehran,Iran and moved here at the age of 19. She loves to be active, play sports, take long walks with her Dog, and hangout with friends.
+
+## Education
+
+**University Of Maryland** | College Park, MD
+**Johns Hopkins** | Baltimore, MD
